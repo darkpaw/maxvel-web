@@ -1,0 +1,123 @@
+
+body {
+
+    background-color: teal;
+    color: #0b0b0b;
+    /* font-family: "Roboto Slab", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif; */
+    font-family: "Varela Round", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+    line-height: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Ruda", sans-serif;
+}
+
+p {
+
+
+}
+
+a {
+  color: #ed5f0c;
+}
+
+.post-meta > a {
+  color: #f0f0f0;
+}
+
+.tree ul a {
+
+    color: black;
+
+}
+
+.breadcrumb {
+    display: none;
+    background-color: teal;
+    font-weight: 500;
+}
+
+.panel {
+    box-shadow: 4px 4px 5px #18523d;
+}
+
+
+.tree .active {
+
+    background-color: pink;
+
+}
+
+.tree .active > a {
+
+    background-color: pink;
+
+}
+
+
+.form-group > input[type="text"],
+.form-group > input[type="password"],
+.form-group > input[type="datetime"],
+.form-group > input[type="datetime-local"],
+.form-group > input[type="date"],
+.form-group > input[type="month"],
+.form-group > input[type="time"],
+.form-group > input[type="week"],
+.form-group > input[type="number"],
+.form-group > input[type="email"],
+.form-group > input[type="url"],
+.form-group > input[type="search"],
+.form-group > input[type="tel"],
+.form-group > input[type="color"],
+.form-group > select,
+.form-group > textarea {
+
+    background-color: black;
+    color: orangered;
+
+}
+
+a.dropdown-toggle.disabled {
+}
+
+/*.nav > li > a.dropdown-toggle:hover {*/
+    /*background-color: unset;*/
+    /*color: #555;*/
+/*}*/
+
+/*.nav > li > a.dropdown.open  {*/
+    /*background-color: unset;*/
+    /*color: #555;*/
+/*}*/
+
+/*.navbar-default .navbar-nav > li > a:hover {*/
+    /*color: #232323;*/
+/*}*/
+
+p.navbar-text.visible-lg {
+
+    color: #3c3c3c !important;
+    font-size:1.1em;
+}
+
+
+a.navbar-brand {
+    color: black !important;
+    font-weight: 700;
+    font-size: 2.4em;
+    text-shadow: 2px 2px 3px hotpink;
+}
+
+.navbar.navbar-default.navbar-fixed-top  {
+
+    box-shadow: 0px 4px 7px #18523d;
+    background-color: forestgreen !important;
+    /* background-image: linear-gradient(to bottom, #000 0%, hotpink 100%); */
+}
+
+.nav-list {
+
+    border-color: red;
+    background-color: hotpink;
+
+}
