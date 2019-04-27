@@ -6,6 +6,7 @@ body {
     /* font-family: "Roboto Slab", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif; */
     font-family: "Varela Round", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
     line-height: normal;
+    padding-top: 170px;
 }
 
 h1, h2, h3, h4, h5, h6 {
